@@ -4,7 +4,7 @@
     "occupation": "Desenvolvedor Full Stack",
     "description": "Estudante, Desenvolvedor e Gamer",
     "image": "profile.jpg",
-    "bio": "Desenvolvedor Full Stack Junior, com um pouco mais de um ano de experiências em desenvolvimento, possuo afinidade com JavaScript e suas bibliotecas como ReactJS e NodeJs, Python, MongoDB e Sql.",
+    "bio": "Desenvolvedor Full Stack, pronto para resolver seu problema com a sua visualibidade web. possuo experiencia com C#, MySql, Javascrip e PowerBI.",
     "contactmessage": "Ficou alguma duvida ? Me mande uma mensagem, vamos conversar.",
     "email": "caio-cavalcanti@hotmail.com",
     "phone": "+55(12) 99122-3524",
@@ -14,8 +14,8 @@
       "state": "São Paulo",
       "zip": "(12) 99122-3524"
     },
-    "website": "#",
-    "resumedownload": "#",
+    
+    "resumedownload": "https://mybucketsweetaurora.s3.amazonaws.com/CurriculoCaioBackEnd.pdf",
     "social": [
       {
         "name": "twitter",
@@ -43,65 +43,63 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "Ampli",
-        "degree": "Engenharia de Software",
-        "graduated": "Jan 2022",
+        "school": "UNIVESP",
+        "degree": "Engenharia da Computação",
+        "graduated": "Jan 2024 / 2029",
         "description": "Graduação voltado para o desenvolvimendo de habilidades para construção de softwares"
+      },
+      {
+        "school": "Proz Educação",
+        "degree": "Arquitetos de Nuvem",
+        "graduated": "Em andamento",
+        "description": "Programa voltado para a certificação SAA-C003 Solutions Archictect"
+      },
+      {
+        "school": "RNP",
+        "degree": "Hackers do bem / Especialização Blue Tean",
+        "graduated": "Em andamento",
+        "description": "Formação voltado para Cyber segurança"
+      },
+      {
+        "school": "DIO",
+        "degree": "Programação C#",
+        "graduated": "2023",
+        "description": "Curso voltado do zero ao avançado em C#"
+      },
+      {
+        "school": "Escola da Nuvem",
+        "degree": "Programa Re/Start",
+        "graduated": "Jan 2024 / mai 2029",
+        "description": "Estudos voltados para Cloud AWS"
       },
       {
         "school": "Resilia",
         "degree": "Programa FullStack",
-        "graduated": "2021",
+        "graduated": "jan 2022",
         "description": "Programa de formação profissionalizante intensiva, mais de 450h com conteudo soft e hard skill."
       }
     ],
     "work": [
-      {
-        "company": "Awesome Design Studio",
-        "title": "Senior UX God ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company": "Super Cool Studio",
-        "title": "Junior bug fixer",
-        "years": "March 2007 - February 2010",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
+    
     ],
     "skills": [
-      {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "Illustrator",
-        "level": "55%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
-      }
+      
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Ione Celulares",
+        "category": "Landing Page, baseada em um serviço de conserto de celulares.",
+        "image": "ioneCelulares.jpg",
+        "url": "http://ione-celulares-site.s3-website-us-east-1.amazonaws.com/"
+      },
+      {
+        "title": "Painel de Ajuda de Pizzaria",
+        "category": "Cardápio para chamado de quando sua pizza está pronta.",
+        "image": "cardapioPizza.jpg",
+        "url": "https://caiosix.github.io/pedidoPizza/"
+      },
       {
         "title": "Painel de Leads",
         "category": "Painel de Organização de Leads para empresas, possui autentificação de casdastro e login.",

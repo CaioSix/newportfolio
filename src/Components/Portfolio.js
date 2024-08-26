@@ -37,6 +37,7 @@ class Portfolio extends Component {
             </div>
           </div>
       </div>
+      
    </section>
     );
   }
