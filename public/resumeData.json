@@ -1,10 +1,10 @@
 {
   "main": {
+    "bio": "Desenvolvedor Full Stack apaixonado por tecnologia, com experiência em C#, React e SQL, além de conhecimentos sólidos em AWS e segurança cibernética. Atualmente cursando Engenharia da Computação, tenho um forte desejo de aprimorar minhas habilidades em desenvolvimento e contribuir proativamente para projetos inovadores. Com experiência prática em ambientes Windows e Linux, estou sempre em busca de soluções robustas e escaláveis.",
     "name": "Caio Cavalcanti",
     "occupation": "Desenvolvedor Full Stack",
     "description": "Estudante, Desenvolvedor e Gamer",
     "image": "profile.jpg",
-    "bio": "Desenvolvedor Full Stack, pronto para resolver seu problema com a sua visualibidade web. possuo experiencia com C#, MySql, Javascrip e PowerBI.",
     "contactmessage": "Ficou alguma duvida ? Me mande uma mensagem, vamos conversar.",
     "email": "caio-cavalcanti@hotmail.com",
     "phone": "+55(12) 99122-3524",

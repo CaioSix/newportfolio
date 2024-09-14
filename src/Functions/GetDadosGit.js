@@ -6,7 +6,7 @@ export async function getGitHubUserData(username) {
         }
         const repos = await response.json();
         
-        const languages = ['C#', 'Ruby', 'Python'];
+        const languages = ['C#', 'Ruby', 'Python','Java'];
         const filteredRepos = repos.filter(repo => languages.includes(repo.language));
         
         console.log(filteredRepos);  
